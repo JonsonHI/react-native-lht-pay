@@ -1,0 +1,43 @@
+{
+  "_from": "react-native-lht-pay",
+  "_id": "react-native-lht-pay@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ZyD/+2pO8G9Kjxq89dVIegesywr4Vc9yqJxoKgNiRW+dhLfdPBB3KFrfbDnRBdKbM0HwQXw9plH6es0W6R+55g==",
+  "_location": "/react-native-lht-pay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-lht-pay",
+    "name": "react-native-lht-pay",
+    "escapedName": "react-native-lht-pay",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-lht-pay/-/react-native-lht-pay-1.0.0.tgz",
+  "_shasum": "11a8b967c4fa3e17993b3ad330f3ab8af4c841d4",
+  "_spec": "react-native-lht-pay",
+  "_where": "/Users/jonson/Desktop/paydemo",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-lht-pay",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
